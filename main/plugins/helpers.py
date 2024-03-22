@@ -1,4 +1,4 @@
-#Github.com/devgaganin
+#Github.com/team_remo
 
 from pyrogram.errors import FloodWait, InviteHashInvalid, InviteHashExpired, UserAlreadyParticipant
 from telethon import errors, events
