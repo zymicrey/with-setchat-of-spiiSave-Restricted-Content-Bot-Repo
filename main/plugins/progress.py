@@ -1,4 +1,4 @@
-#GitHub: devgaganin
+#GitHub: Team_remo
 
 import math
 import os
