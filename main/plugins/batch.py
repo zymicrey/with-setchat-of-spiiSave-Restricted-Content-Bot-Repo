@@ -164,8 +164,6 @@ TEXT = "Namaste🙏, This is 'Paid Restricted Content Saver' bot Made with ❤�
 async def start_command(event):
     # Creating inline keyboard with buttons
     buttons = [
-        [Button.inline("Cancel", data="cancel"),
-         Button.inline("Cancel", data="cancel")],
         [Button.url("Join Channel", url="http://t.me/team_remo8898")]
     ]
 
